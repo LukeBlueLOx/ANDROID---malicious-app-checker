@@ -8,8 +8,8 @@ def load_file(file_name):
         return []
 
 def main():
-    malicious_apps = load_file("list_of_malicious_applications.txt")
-    app_list = load_file("application_list.txt")
+    malicious_apps = load_file("malicious_app_list.txt")
+    app_list = load_file("app_list.txt")
 
     if not malicious_apps or not app_list:
         print("Error: One or both input files not found.")
