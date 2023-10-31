@@ -6,9 +6,10 @@ https://niebezpiecznik.pl/post/masz-androida-sprawdz-billing
 
 https://developer.android.com/tools/adb
 
+```
 adb shell pm list packages | sort > app_list.txt
-
 sort -o malicious_app_list.txt malicious_app_list.txt
+```
 
 https://x.com/LukeBlueLOx/status/1719086390535766247?s=20
 
