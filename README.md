@@ -6,6 +6,13 @@ https://niebezpiecznik.pl/post/masz-androida-sprawdz-billing
 
 https://developer.android.com/tools/adb
 
+* install adb package
+```
+sudo apt update
+sudo apt upgrade
+sudo apt install adb
+```
+
 ```
 git clone git@github.com:LukeBlueLOx/ANDROID-malicious-app-checker.git
 ```
