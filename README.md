@@ -7,8 +7,13 @@ https://niebezpiecznik.pl/post/masz-androida-sprawdz-billing
 https://developer.android.com/tools/adb
 
 ```
+git clone git@github.com:LukeBlueLOx/ANDROID-malicious-app-checker.git
+```
+```
+cd ANDROID-malicious-app-checker
 adb shell pm list packages | sort > app_list.txt
 sort -o malicious_app_list.txt malicious_app_list.txt
+python3 app_checker.py
 ```
 
 https://x.com/LukeBlueLOx/status/1719086390535766247?s=20
