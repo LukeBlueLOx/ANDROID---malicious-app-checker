@@ -13,12 +13,12 @@ https://developer.android.com/tools/adb
     sudo apt upgrade
     sudo apt install adb
     ```
+    ```
+adb devices
+```
 
 ```
 git clone git@github.com:LukeBlueLOx/ANDROID-malicious-app-checker.git
-```
-```
-adb devices
 ```
 ```
 cd ANDROID-malicious-app-checker
