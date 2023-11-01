@@ -7,6 +7,7 @@ https://niebezpiecznik.pl/post/masz-androida-sprawdz-billing
 https://developer.android.com/tools/adb
 
 * install adb package:
+  
     ```
     sudo apt update
     sudo apt upgrade
