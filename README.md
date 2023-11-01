@@ -14,8 +14,8 @@ https://developer.android.com/tools/adb
     sudo apt install adb
     ```
     ```
-adb devices
-```
+    adb devices
+    ```
 
 ```
 git clone git@github.com:LukeBlueLOx/ANDROID-malicious-app-checker.git
