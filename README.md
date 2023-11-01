@@ -18,6 +18,9 @@ https://developer.android.com/tools/adb
 git clone git@github.com:LukeBlueLOx/ANDROID-malicious-app-checker.git
 ```
 ```
+adb devices
+```
+```
 cd ANDROID-malicious-app-checker
 adb shell pm list packages | sort > app_list.txt
 sort -o malicious_app_list.txt malicious_app_list.txt
