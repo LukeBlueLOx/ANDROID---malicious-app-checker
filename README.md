@@ -29,6 +29,8 @@ source ANDROID-malicious-app-checker/bin/activate
 pip install -r requirements.txt
 chmod u+r+x check_apps.sh
 ```
+
+Then - each subsequent run of the program using the command:
 ```
 ./check_apps.sh
 ```
