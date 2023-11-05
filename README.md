@@ -1,5 +1,11 @@
 # ANDROID-malicious-app-checker
 
+I highly recommend #Ubuntu #ManticMinotaur:
+
+https://canonical.com/blog/canonical-releases-ubuntu-23-10-mantic-minotaur
+
+✌💙💚♻️🌌🚀🌎🌍🌏🛰🌌♻️💚💙✌
+
 Update "2023-11-05" - Commit: migrated txt files to csv + update malicious apps list = 368 positions.
 
 https://www.fonearena.com/blog/376170/meta-list-of-400-malicious-android-ios-apps.html
