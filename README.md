@@ -1,5 +1,9 @@
 # ANDROID-malicious-app-checker
 
+"2023-11-05" - Commit: migrated txt files to csv + update malicious apps list = 368 positions.
+
+https://www.fonearena.com/blog/376170/meta-list-of-400-malicious-android-ios-apps.html
+
 https://cert.orange.pl/aktualnosci/masz-telefon-ze-starym-androidem-uwazaj-na-wysoki-rachunek
 
 https://niebezpiecznik.pl/post/masz-androida-sprawdz-billing
@@ -26,6 +30,7 @@ python3 -m venv ANDROID-malicious-app-checker
 source ANDROID-malicious-app-checker/bin/activate
 pip install -r requirements.txt
 chmod u+r+x check_apps.sh
+```
 ```
 ./check_apps.sh
 ```
