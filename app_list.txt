@@ -289,4 +289,3 @@ package:info.solocrowd.android.moonphase.free
 package:io.metamask
 package:pl.nask.mobywatel
 package:pl.tajchert.canary
-

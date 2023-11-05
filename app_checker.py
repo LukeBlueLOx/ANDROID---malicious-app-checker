@@ -1,55 +1,64 @@
 import sys
+import csv
+import pandas as pd
 
-def load_file(file_name):
+def load_csv(file_name):
+    data = []
     try:
-        with open(file_name, "r") as file:
-            return file.read().splitlines()
+        with open(file_name, "r", newline='') as csvfile:
+            reader = csv.reader(csvfile)
+            next(reader)  # Skip the first row with column headers
+            for row in reader:
+                data.append([row[0].replace("package:", "")] + row[1:])
     except FileNotFoundError:
         return []
 
-def get_app_and_addresses(app_list, malicious_apps):
-    app_info = {}
-
-    for app in malicious_apps:
-        app_package = app.split(' ', 1)[0]
-        app_info[app_package] = {
-            "name": "",
-            "addresses": []
-        }
-
-    for line in app_list:
-        for app_package, app_data in app_info.items():
-            if app_package in line:
-                app_data["name"] = line
-
-    return app_info
+    return data
 
 def main():
-    malicious_apps = load_file("malicious_app_list.txt")
-    app_list = load_file("app_list.txt")
+    malicious_apps = load_csv("malicious_app_list.csv")
+    app_list = load_csv("app_list.csv")
 
     if not malicious_apps or not app_list:
         print("Error: One or both input files not found.")
         return
 
-    app_info = get_app_and_addresses(app_list, malicious_apps)
-    found_matches = False  # Add a flag to track if any matches were found.
+    # Convert the loaded data into Pandas DataFrames
+    malicious_apps_df = pd.DataFrame(malicious_apps, columns=["package_name", "name", "link1", "link2"])
 
-    for app_package, data in app_info.items():
-        if data["name"]:
-            found_matches = True  # Set the flag to True when a match is found.
-            print("-" * 100)
-            print(f"Matches found: {data['name']}")
-            print("Description and recipe:")
-            for line in malicious_apps:
-                if app_package in line:
-                    description, *addresses = line.split(' ', 1)
-                    for address in addresses[0].split():
-                        print(address)
-            print("-" * 100)
+    if not app_list:
+        print("No matches found in the input data.")
+        return
 
-    # Check if no matches were found and print a message.
-    if not found_matches:
+    try:
+        app_list_df = pd.DataFrame(app_list, columns=["package_name", "name"])
+    except ValueError:
+        print("No matches found in the input data.")
+        return
+
+    # Find matching entries based on the "package_name" column
+    matches = app_list_df[app_list_df["package_name"].isin(malicious_apps_df["package_name"])]
+
+    if not matches.empty:
+        found_matches = False
+
+        for _, row in matches.iterrows():
+            package_name = row["package_name"]
+            data = malicious_apps_df[malicious_apps_df["package_name"] == package_name]
+
+            if not data.empty:
+                found_matches = True
+                print("-" * 100)
+                print(f"Matches found: {package_name}")  # Print the name from the "app_list.csv" file
+                print("Description and recipe:")
+                print(f"Name: {data.iloc[0]['name']}")
+                print(f"Link 1: {data.iloc[0]['link1']}")
+                print(f"Link 2: {data.iloc[0]['link2']}")
+                print("-" * 100)
+
+        if not found_matches:
+            print("No matches found in the input data.")
+    else:
         print("No matches found in the input data.")
 
 if __name__ == "__main__":
