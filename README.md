@@ -1,6 +1,6 @@
 # ANDROID-malicious-app-checker
 
-"2023-11-05" - Commit: migrated txt files to csv + update malicious apps list = 368 positions.
+Update "2023-11-05" - Commit: migrated txt files to csv + update malicious apps list = 368 positions.
 
 https://www.fonearena.com/blog/376170/meta-list-of-400-malicious-android-ios-apps.html
 
