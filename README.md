@@ -35,7 +35,10 @@ Then - each subsequent run of the program using the command:
 ./check_apps.sh
 ```
 
-<div align="center">  
+<div align="center">
+
+Matches Example:
+
 <img src="https://github.com/LukeBlueLOx/ANDROID-malicious-app-checker/blob/6be2ef81f1e4f955553b478509301b2297139c9e/Matches_Example.png" width="" height=""/>
 </div
 
