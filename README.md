@@ -6,7 +6,7 @@ https://ubuntu.com
 
 ✌💙💚♻️🌌🚀🌎🌍🌏🛰🌌♻️💚💙✌
 
-Update - Commit "2024-02-22": update malicious apps list = 380 positions.
+Commit "2024-02-22": update malicious apps list = 380 positions.
 
 https://cebrf.knf.gov.pl/images/Hookbot_Builder_-_Analyze_CSIRT_KNF.pdf
 
