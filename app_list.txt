@@ -67,6 +67,7 @@ package:com.android.vpndialogs
 package:com.android.wallpaperbackup
 package:com.android.wallpapercropper
 package:com.android.wallpaper.livepicker
+package:com.clstudios.screenlock
 package:com.cyberalerty
 package:com.enhance.gameservice
 package:com.facebook.appmanager
@@ -107,9 +108,11 @@ package:com.google.android.tts
 package:com.google.android.videos
 package:com.google.android.webview
 package:com.google.android.youtube
+package:com.google.samples.apps.nowinandroid
 package:com.guardian
 package:com.hiya.star
 package:com.instagram.android
+package:com.instagram.barcelona
 package:com.knox.vpn.proxyhandler
 package:com.linkedin.android
 package:com.microsoft.office.excel
@@ -120,8 +123,9 @@ package:com.monotype.android.font.chococooky
 package:com.monotype.android.font.cooljazz
 package:com.monotype.android.font.foundation
 package:com.monotype.android.font.rosemary
-package:com.myetherwallet.mewwallet
 package:com.onrender.bloxland.blox_ppr
+package:com.onrender.bloxland.blo_x_reader
+package:com.onrender.bloxland.blox_scada_android
 package:com.orange.update
 package:com.osp.app.signin
 package:com.samsung.aasaservice
@@ -286,6 +290,10 @@ package:com.whatsapp
 package:com.wsomacp
 package:com.wssyncmldm
 package:info.solocrowd.android.moonphase.free
+package:io.keybase.ossifrage
 package:io.metamask
+package:pl.allegro
+package:pl.encom.parcel
+package:pl.janpogocki.icm.pogoda
 package:pl.nask.mobywatel
 package:pl.tajchert.canary

@@ -31,7 +31,7 @@ def main():
         return
 
     try:
-        app_list_df = pd.DataFrame(app_list, columns=["package_name", "name"])
+        app_list_df = pd.DataFrame(app_list, columns=["package_name"])
     except ValueError:
         print("No matches found in the input data.")
         return

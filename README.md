@@ -1,18 +1,28 @@
 # ANDROID-malicious-app-checker
 
-I highly recommend #Ubuntu #ManticMinotaur:
+I highly recommend #Ubuntu system:
 
-https://canonical.com/blog/canonical-releases-ubuntu-23-10-mantic-minotaur
+https://ubuntu.com
 
 ✌💙💚♻️🌌🚀🌎🌍🌏🛰🌌♻️💚💙✌
 
-Update "2023-11-05" - Commit: migrated txt files to csv + update malicious apps list = 368 positions.
+Update "2024-02-22" - Commit: update malicious apps list = 380 positions.
+
+https://cebrf.knf.gov.pl/images/Hookbot_Builder_-_Analyze_CSIRT_KNF.pdf
+
+https://cebrf.knf.gov.pl/komunikaty/artykuly-csirt-knf/362-ostrzezenia/858-hookbot-a-new-mobile-malware
+
+<hr>
 
 https://www.fonearena.com/blog/376170/meta-list-of-400-malicious-android-ios-apps.html
+
+<hr>
 
 https://cert.orange.pl/aktualnosci/masz-telefon-ze-starym-androidem-uwazaj-na-wysoki-rachunek
 
 https://niebezpiecznik.pl/post/masz-androida-sprawdz-billing
+
+<hr>
 
 https://developer.android.com/tools/adb
 
