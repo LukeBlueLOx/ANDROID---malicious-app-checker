@@ -38,7 +38,7 @@ https://developer.android.com/tools/adb
     ```
 
 ```
-git clone git@github.com:LukeBlueLOx/ANDROID-malicious-app-checker.git
+git clone https://github.com/LukeBlueLOx/ANDROID-malicious-app-checker.git
 cd ANDROID-malicious-app-checker
 python3 -m venv ANDROID-malicious-app-checker
 source ANDROID-malicious-app-checker/bin/activate
