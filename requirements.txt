@@ -1,1 +1,2 @@
 pandas==2.1.2
+permhash==0.1.4.1
