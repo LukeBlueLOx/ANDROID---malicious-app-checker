@@ -37,15 +37,15 @@ for apk_path in output.decode().splitlines():
         ph = permhash.permhash_apk(apk_on_host_path)
         print(f"Permhash dla {apk_name}: {ph}")
 
-        # Dodaj wynik permhash do listy wyników
-        permhash_results.append({'apk': apk_name, 'permhash': ph})
+        # Dodaj wynik permhash do listy wyników wraz ze ścieżką do pliku APK
+        permhash_results.append({'path': apk_path, 'apk': apk_name, 'permhash': ph})
     # Usuń skopiowany plik APK z docelowej lokalizacji na urządzeniu
     subprocess.run(["adb", "shell", "su", "-c", f"rm {apk_on_device_path}"], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 
 # Zapisz wyniki do pliku CSV
 csv_file_path = 'permhash_test.csv'
 with open(csv_file_path, mode='w', newline='') as csv_file:
-    fieldnames = ['apk', 'permhash']
+    fieldnames = ['path', 'apk', 'permhash']  # Dodano 'path' jako pole
     writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
 
     writer.writeheader()
@@ -53,5 +53,4 @@ with open(csv_file_path, mode='w', newline='') as csv_file:
         writer.writerow(result)
 
 print("Wyniki zostały zapisane do permhash_test.csv")
-
 
