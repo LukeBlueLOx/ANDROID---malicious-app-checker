@@ -43,7 +43,7 @@ for apk_path in output.decode().splitlines():
     subprocess.run(["adb", "shell", "su", "-c", f"rm {apk_on_device_path}"], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 
 # Zapisz wyniki do pliku CSV
-csv_file_path = 'permhash_test.csv'
+csv_file_path = 'permhash.csv'
 with open(csv_file_path, mode='w', newline='') as csv_file:
     fieldnames = ['path', 'apk', 'permhash']  # Dodano 'path' jako pole
     writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
@@ -52,5 +52,5 @@ with open(csv_file_path, mode='w', newline='') as csv_file:
     for result in permhash_results:
         writer.writerow(result)
 
-print("Wyniki zostały zapisane do permhash_test.csv")
+print("Wyniki zostały zapisane do permhash.csv")
 
