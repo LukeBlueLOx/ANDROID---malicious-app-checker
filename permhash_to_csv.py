@@ -4,6 +4,7 @@ import os
 import tempfile
 from datetime import datetime
 import csv
+import yaml
 
 # Prompt for root permissions
 root_permissions = input("Do You Have ROOT Permissions On Your ANDROID Device? (Y/N): ")
@@ -44,6 +45,15 @@ for apk_path in output.decode().splitlines():
 
 # Get the current date and time
 current_datetime = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+
+with open("config.yaml", "r") as cr:
+    config_vals = yaml.full_load(cr)
+csv1 = config_vals['current_datetime']
+
+config_vals['previous_datetime'] = csv1
+config_vals['current_datetime'] = f'permhash_{current_datetime}.csv'
+with open('config.yaml', "w") as cw:
+    yaml.dump(config_vals, cw, default_flow_style=True)
 
 # Save the results to a CSV file with the date and time in the name
 csv_file_path = f'permhash_{current_datetime}.csv'

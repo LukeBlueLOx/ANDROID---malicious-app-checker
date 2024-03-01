@@ -53,11 +53,17 @@ https://developer.android.com/tools/adb
     source ANDROID-malicious-app-checker/bin/activate
     pip install -r requirements.txt
     chmod u+r+x check_apps.sh
+    chmod u+r+x permhash_and_analysis_of_changes.sh
     ```
 
 Then - each subsequent run of the program using the command:
 ```
 ./check_apps.sh
+```
+
+Permhash and analysis of changes:
+```
+./permhash_and_analysis_of_changes.sh
 ```
 
 <div align="center">

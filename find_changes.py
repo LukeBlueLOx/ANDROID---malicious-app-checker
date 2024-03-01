@@ -1,5 +1,6 @@
 import pandas as pd
 import re
+import yaml
 
 # Function to extract date and time from the filename
 def extract_datetime(filename):
@@ -8,9 +9,11 @@ def extract_datetime(filename):
         return match.group(0)
     else:
         return None
-
-csv1 = "permhash_2024-02-28_12-53-28.csv"
-csv2 = "permhash_2024-02-28_17-31-26.csv"
+        
+with open("config.yaml", "r") as cr:
+    config_vals = yaml.full_load(cr)
+csv1 = config_vals['current_datetime']
+csv2 = config_vals['previous_datetime']
 
 # Load data from the first CSV file
 df1 = pd.read_csv(csv1)
