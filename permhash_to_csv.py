@@ -5,12 +5,22 @@ import tempfile
 from datetime import datetime
 import csv
 
+# Prompt for root permissions
+root_permissions = input("Do You Have ROOT Permissions On Your ANDROID Device? (Y/N): ")
+
+if root_permissions.upper() == 'Y':
+    # Run adb to retrieve the list of APK files on the device
+    adb_command = ["adb", "shell", "su", "-c", "find / -name '*.apk'"]
+else:
+    # Run adb to retrieve the list of APK files on the device
+    adb_command = ["adb", "shell", "find / -name '*.apk'"]
+
+# Execute adb command
+adb_process = subprocess.Popen(adb_command, stdout=subprocess.PIPE)
+output, _ = adb_process.communicate()
+
 # List to store permhash results
 permhash_results = []
-
-# Run adb to retrieve the list of APK files on the device
-adb_process = subprocess.Popen(["adb", "shell", "su", "-c", "find / -name '*.apk'"], stdout=subprocess.PIPE)
-output, _ = adb_process.communicate()
 
 # Iterate through the result to get paths to APK files and download them directly
 for apk_path in output.decode().splitlines():
