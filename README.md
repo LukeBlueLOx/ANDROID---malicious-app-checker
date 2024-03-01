@@ -66,6 +66,11 @@ Permhash and analysis of changes:
 ./permhash_and_analysis_of_changes.sh
 ```
 
+And My Micro Contribution For Permhash:
+https://github.com/google/permhash/issues/4
+https://github.com/LukeBlueLOx/permhash/commit/523bdf68d756ac709047dd56453ad3518919a6f3
+✌💙💚♻️🌌🚀🌎🌍🌏🛰🌌♻️💚💙✌
+
 <div align="center">
 
 
