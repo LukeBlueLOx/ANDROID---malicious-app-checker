@@ -63,12 +63,6 @@ Example Of Matches:
 
 <hr>
 
-```
-adb shell pm list packages > packages.txt
-```
-
-<hr>
-
 https://m.facebook.com/story.php?story_fbid=pfbid02MLHGwxWmxw6k94utj71wyW5weF4vnWvbQXaWMYNuRsmtgQsZwdTkUFAoEAAbyNYZl&id=100069895661137
 
 https://x.com/LukeBlueLOx/status/1719086390535766247?s=20
