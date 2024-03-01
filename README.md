@@ -39,21 +39,21 @@ https://developer.android.com/tools/adb
     
 * If you don't have a tool installed to manage Python virtual environments and its packages, do the following:
 
-```
-sudo apt install python3.10-venv
-sudo apt install python3-pip
-```    
+    ```
+    sudo apt install python3.10-venv
+    sudo apt install python3-pip
+    ```    
 
 * Next:
 
-```
-git clone https://github.com/LukeBlueLOx/ANDROID-malicious-app-checker.git
-cd ANDROID-malicious-app-checker
-python3 -m venv ANDROID-malicious-app-checker
-source ANDROID-malicious-app-checker/bin/activate
-pip install -r requirements.txt
-chmod u+r+x check_apps.sh
-```
+    ```
+    git clone https://github.com/LukeBlueLOx/ANDROID-malicious-app-checker.git
+    cd ANDROID-malicious-app-checker
+    python3 -m venv ANDROID-malicious-app-checker
+    source ANDROID-malicious-app-checker/bin/activate
+    pip install -r requirements.txt
+    chmod u+r+x check_apps.sh
+    ```
 
 Then - each subsequent run of the program using the command:
 ```
