@@ -144,6 +144,7 @@ package:com.onrender.bloxland.blox_scada_android
 package:com.rockchip.devicetest
 package:com.rockchip.overlay.pinnerservice
 package:com.topjohnwu.magisk
+package:com.twitter.android
 package:com.whatsapp
 package:info.solocrowd.android.moonphase.free
 package:io.keybase.ossifrage
