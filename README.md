@@ -1,6 +1,6 @@
 # ANDROID-malicious-app-checker
 
-I highly recommend #Ubuntu system:
+I highly recommend Ubuntu system:
 
 https://ubuntu.com
 
