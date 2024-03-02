@@ -6,22 +6,6 @@ https://ubuntu.com
 
 ✌💙💚♻️🌌🚀🌎🌍🌏🛰🌌♻️💚💙✌
 
-Commit "2024-02-22": update malicious apps list = 380 positions.
-
-https://cebrf.knf.gov.pl/images/Hookbot_Builder_-_Analyze_CSIRT_KNF.pdf
-
-https://cebrf.knf.gov.pl/komunikaty/artykuly-csirt-knf/362-ostrzezenia/858-hookbot-a-new-mobile-malware
-
-<hr>
-
-https://www.fonearena.com/blog/376170/meta-list-of-400-malicious-android-ios-apps.html
-
-<hr>
-
-https://cert.orange.pl/aktualnosci/masz-telefon-ze-starym-androidem-uwazaj-na-wysoki-rachunek
-
-https://niebezpiecznik.pl/post/masz-androida-sprawdz-billing
-
 <hr>
 
 https://developer.android.com/tools/adb
@@ -84,7 +68,25 @@ Example Of Matches:
 <img src="https://github.com/LukeBlueLOx/ANDROID-malicious-app-checker/blob/6681853612087a0b1678c097e5d90a802d938bc0/Matches_Example_2024-02-22.png" width="" height=""/>
 </div>
 
+Commit "2024-02-22": update malicious apps list = 380 positions.
+
+https://cebrf.knf.gov.pl/images/Hookbot_Builder_-_Analyze_CSIRT_KNF.pdf
+
+https://cebrf.knf.gov.pl/komunikaty/artykuly-csirt-knf/362-ostrzezenia/858-hookbot-a-new-mobile-malware
+
 <hr>
+
+https://www.fonearena.com/blog/376170/meta-list-of-400-malicious-android-ios-apps.html
+
+<hr>
+
+https://cert.orange.pl/aktualnosci/masz-telefon-ze-starym-androidem-uwazaj-na-wysoki-rachunek
+
+https://niebezpiecznik.pl/post/masz-androida-sprawdz-billing
+
+<hr>
+
+https://x.com/LukeBlueLOx/status/1763638983316115866?s=20
 
 https://m.facebook.com/story.php?story_fbid=pfbid02MLHGwxWmxw6k94utj71wyW5weF4vnWvbQXaWMYNuRsmtgQsZwdTkUFAoEAAbyNYZl&id=100069895661137
 
