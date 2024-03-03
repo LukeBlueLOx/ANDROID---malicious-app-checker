@@ -86,6 +86,8 @@ https://niebezpiecznik.pl/post/masz-androida-sprawdz-billing
 
 <hr>
 
+ANDROID-malicious-app-checker in social media:
+
 https://x.com/LukeBlueLOx/status/1763638983316115866?s=20
 
 https://m.facebook.com/story.php?story_fbid=pfbid02MLHGwxWmxw6k94utj71wyW5weF4vnWvbQXaWMYNuRsmtgQsZwdTkUFAoEAAbyNYZl&id=100069895661137
