@@ -1,8 +1,8 @@
 # ANDROID-malicious-app-checker
 
-I highly recommend Ubuntu system:
+I highly recommend Ubuntu 22.04.4 LTS system:
 
-https://ubuntu.com
+https://ubuntu.com/download/desktop
 
 ✌💙💚♻️🌌🚀🌎🌍🌏🛰🌌♻️💚💙✌
 
@@ -24,7 +24,7 @@ https://developer.android.com/tools/adb
 * If you don't have a tool installed to manage Python virtual environments and its packages, do the following:
 
     ```
-    sudo apt install python3.11-venv
+    sudo apt install python3.10-venv
     sudo apt install python3-pip
     ```    
 
