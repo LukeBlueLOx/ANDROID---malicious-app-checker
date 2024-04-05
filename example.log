@@ -196,3 +196,326 @@ WARNING:root:This file does not exist: (/tmp/tmpih1yhswt/the.apk)
 WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpih1yhswt/the.apk)
 WARNING:root:This file does not exist: (/tmp/tmppprguqks/the.apk)
 WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmppprguqks/the.apk)
+WARNING:root:This file does not exist: (/tmp/tmpt6bpmhf1/Magisk-v27.0.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpt6bpmhf1/Magisk-v27.0.apk)
+WARNING:root:This file does not exist: (/tmp/tmpflz02azy/Magisk-v27.0.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpflz02azy/Magisk-v27.0.apk)
+WARNING:root:This file does not exist: (/tmp/tmp87lkbv0w/Magisk-v27.0.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmp87lkbv0w/Magisk-v27.0.apk)
+WARNING:root:This file does not exist: (/tmp/tmpyoi0_h3v/Magisk-v27.0.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpyoi0_h3v/Magisk-v27.0.apk)
+WARNING:root:This file has no permissions: /tmp/tmpnullmy5a/framework-res__auto_generated_rro_vendor.apk
+WARNING:root:This file has no permissions: /tmp/tmpgudaq_ud/SettingsProvider.apk
+WARNING:root:This file has no permissions: /tmp/tmpcihoflf2/PlatformNetworkPermissionConfig.apk
+WARNING:root:This file has no permissions: /tmp/tmpbasb8hjh/split_phonesky_data_loader.config.arm64_v8a.apk
+WARNING:root:This file has no permissions: /tmp/tmp6_29_tjz/split_phonesky_data_loader.apk
+WARNING:root:This file has no permissions: /tmp/tmpazy8z2we/split_config.en.apk
+WARNING:root:This file has no permissions: /tmp/tmpwz81umr1/split_config.arm64_v8a.apk
+WARNING:root:This file has no permissions: /tmp/tmp4bt3i29o/MediaProviderLegacy.apk
+WARNING:root:This file has no permissions: /tmp/tmpzb1ym_xo/LocalTransport.apk
+WARNING:root:This file has no permissions: /tmp/tmpj9asnom4/InputDevices.apk
+WARNING:root:This file has no permissions: /tmp/tmpu0n98b_6/InProcessNetworkStack.apk
+WARNING:root:This file has no permissions: /tmp/tmpxw5dymam/GmsCoreSetupPrebuilt.apk
+WARNING:root:This file has no permissions: /tmp/tmpwzxxvtdl/CtsShimPrivPrebuilt.apk
+WARNING:root:This file has no permissions: /tmp/tmp6hz3ssbu/wiringop.apk
+WARNING:root:This file has no permissions: /tmp/tmpe_hijy2z/WallpaperBackup.apk
+WARNING:root:This file has no permissions: /tmp/tmpopfu1t2e/TrichromeLibrary.apk
+WARNING:root:This file has no permissions: /tmp/tmpubk3eare/SimAppDialog.apk
+WARNING:root:This file has no permissions: /tmp/tmp3osm9npl/split_config.xxhdpi.apk
+WARNING:root:This file has no permissions: /tmp/tmpeot1g2ag/split_config.en.apk
+WARNING:root:This file has no permissions: /tmp/tmp7cwszwi0/split_config.arm64_v8a.apk
+WARNING:root:This file has no permissions: /tmp/tmpqyphn2ro/HTMLViewer.apk
+WARNING:root:This file has no permissions: /tmp/tmpmibmk_qa/GoogleExtShared.apk
+WARNING:root:This file has no permissions: /tmp/tmpalduxbc0/ExtShared.apk
+WARNING:root:This file has no permissions: /tmp/tmpjkdcik_1/ExactCalculator.apk
+WARNING:root:This file has no permissions: /tmp/tmpryqd9l9_/CtsShimPrebuilt.apk
+WARNING:root:This file has no permissions: /tmp/tmpxb5oyrjq/CameraExtensionsProxy.apk
+WARNING:root:This file has no permissions: /tmp/tmpkgso_bi_/BookmarkProvider.apk
+WARNING:root:This file has no permissions: /tmp/tmpp9m8qphe/BasicDreams.apk
+WARNING:root:This file has no permissions: /tmp/tmph6l1rv2i/InProcessTethering.apk
+WARNING:root:This file has no permissions: /tmp/tmpkajlkuo8/ServiceConnectivityResources.apk
+WARNING:root:This file has no permissions: /tmp/tmpyjf1tqm9/ServiceWifiResources.apk
+WARNING:root:This file has no permissions: /tmp/tmppcshm6l9/ServiceWifiResources.apk
+WARNING:root:This file has no permissions: /tmp/tmpdkhs2o5k/InProcessTethering.apk
+WARNING:root:This file has no permissions: /tmp/tmpnku0vij_/ServiceConnectivityResources.apk
+WARNING:root:This file has no permissions: /tmp/tmpbnj4vcir/ModuleMetadata.apk
+WARNING:root:This file has no permissions: /tmp/tmpzp8gkspg/DisplayCutoutEmulationTallOverlay.apk
+WARNING:root:This file has no permissions: /tmp/tmpib7dk4tr/NavigationBarModeGesturalOverlayWideBack.apk
+WARNING:root:This file has no permissions: /tmp/tmp4u32h8gn/FontNotoSerifSourceOverlay.apk
+WARNING:root:This file has no permissions: /tmp/tmpe9r5o87j/DisplayCutoutEmulationCornerOverlay.apk
+WARNING:root:This file has no permissions: /tmp/tmpmxomf66_/DisplayCutoutEmulationDoubleOverlay.apk
+WARNING:root:This file has no permissions: /tmp/tmpw0us3g9l/DisplayCutoutEmulationHoleOverlay.apk
+WARNING:root:This file has no permissions: /tmp/tmpo4c06gda/framework-res__auto_generated_rro_product.apk
+WARNING:root:This file has no permissions: /tmp/tmp4xu7zv2a/OneHandedModeGesturalOverlay.apk
+WARNING:root:This file has no permissions: /tmp/tmpfaet4mdi/forceQueryablePackagesOverlay.apk
+WARNING:root:This file has no permissions: /tmp/tmpta115upc/NavigationBarMode3ButtonOverlay.apk
+WARNING:root:This file has no permissions: /tmp/tmpejj65qbb/NavigationBarModeGesturalOverlayExtraWideBack.apk
+WARNING:root:This file has no permissions: /tmp/tmpawcgkf62/NavigationBarModeGesturalOverlay.apk
+WARNING:root:This file has no permissions: /tmp/tmptqpbs7qo/NavigationBarModeGesturalOverlayNarrowBack.apk
+WARNING:root:This file has no permissions: /tmp/tmpld9rjlw3/RockchipPinnerService.apk
+WARNING:root:This file has no permissions: /tmp/tmpsnhohqpx/DisplayCutoutEmulationWaterfallOverlay.apk
+WARNING:root:This file does not exist: (/tmp/tmpgtos1zaj/p_com.android.vending8337056337583407088.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpgtos1zaj/p_com.android.vending8337056337583407088.apk)
+WARNING:root:This file does not exist: (/tmp/tmprt81g359/p_config.en120269047309022999.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmprt81g359/p_config.en120269047309022999.apk)
+WARNING:root:This file does not exist: (/tmp/tmp6pcwtqxy/p_config.pl7153012377001232492.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmp6pcwtqxy/p_config.pl7153012377001232492.apk)
+WARNING:root:This file does not exist: (/tmp/tmp3662m2vt/p_config.arm64_v8a498984038476018196.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmp3662m2vt/p_config.arm64_v8a498984038476018196.apk)
+WARNING:root:This file does not exist: (/tmp/tmpc46e1qa_/p_phonesky_data_loader6206540251592254973.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpc46e1qa_/p_phonesky_data_loader6206540251592254973.apk)
+WARNING:root:This file does not exist: (/tmp/tmphamsehnp/p_phonesky_data_loader.config.arm64_v8a7183011402913489585.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmphamsehnp/p_phonesky_data_loader.config.arm64_v8a7183011402913489585.apk)
+WARNING:root:This file does not exist: (/tmp/tmpbdgy2opg/the.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpbdgy2opg/the.apk)
+WARNING:root:This file does not exist: (/tmp/tmpi918azn5/the.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpi918azn5/the.apk)
+WARNING:root:This file does not exist: (/tmp/tmp2w6nkirc/the.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmp2w6nkirc/the.apk)
+WARNING:root:This file does not exist: (/tmp/tmpgg5wfi07/the.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpgg5wfi07/the.apk)
+WARNING:root:This file has no permissions: /tmp/tmp5jgiyu4g/base.apk
+WARNING:root:This file has no permissions: /tmp/tmpy4inm1r6/split_MapsDynamite.config.pl.apk
+WARNING:root:This file has no permissions: /tmp/tmpa9ynh399/split_config.pl.apk
+WARNING:root:This file has no permissions: /tmp/tmpq84xabrg/split_MeasurementDynamite.config.pl.apk
+WARNING:root:This file has no permissions: /tmp/tmpqovcluge/split_DynamiteModulesA.config.pl.apk
+WARNING:root:This file has no permissions: /tmp/tmpqbfbegt9/split_DynamiteModulesC.config.pl.apk
+WARNING:root:This file has no permissions: /tmp/tmpa0yg5hf4/split_DynamiteModulesA.apk
+WARNING:root:This file has no permissions: /tmp/tmpnre0stjz/split_DynamiteModulesA.config.en.apk
+WARNING:root:This file has no permissions: /tmp/tmp5x0j947f/split_DynamiteModulesA.config.hdpi.apk
+WARNING:root:This file has no permissions: /tmp/tmpd9otnadm/split_DynamiteModulesC.apk
+WARNING:root:This file has no permissions: /tmp/tmpq_hewrpp/split_DynamiteModulesC.config.en.apk
+WARNING:root:This file has no permissions: /tmp/tmpi0m_yjks/split_DynamiteModulesC.config.hdpi.apk
+WARNING:root:This file has no permissions: /tmp/tmp35ih434k/split_GoogleCertificates.apk
+WARNING:root:This file has no permissions: /tmp/tmpipjqkg20/split_MapsDynamite.apk
+WARNING:root:This file has no permissions: /tmp/tmpgzlscv3t/split_MapsDynamite.config.en.apk
+WARNING:root:This file has no permissions: /tmp/tmpbixp42ld/split_MapsDynamite.config.hdpi.apk
+WARNING:root:This file has no permissions: /tmp/tmpgb7ehm9r/split_MeasurementDynamite.apk
+WARNING:root:This file has no permissions: /tmp/tmpkupatumf/split_MeasurementDynamite.config.en.apk
+WARNING:root:This file has no permissions: /tmp/tmp0e53vh17/split_config.en.apk
+WARNING:root:This file has no permissions: /tmp/tmpgb70mdsx/split_config.hdpi.apk
+WARNING:root:This file has no permissions: /tmp/tmpbpvdmuji/split_config.hdpi.apk
+WARNING:root:This file has no permissions: /tmp/tmpok959qzq/split_config.hdpi.apk
+WARNING:root:This file has no permissions: /tmp/tmpvg0sjk0o/split_config.pl.apk
+WARNING:root:This file has no permissions: /tmp/tmplzk5afq9/split_config.en.apk
+WARNING:root:This file has no permissions: /tmp/tmpizcek6s1/split_cablev2_authenticator.apk
+WARNING:root:This file has no permissions: /tmp/tmph3f6we7u/split_chrome.apk
+WARNING:root:This file has no permissions: /tmp/tmprrohs97a/split_survey.apk
+WARNING:root:This file has no permissions: /tmp/tmpghquv2d0/split_read_aloud_playback.apk
+WARNING:root:This file has no permissions: /tmp/tmpinegopmk/split_feedv2.apk
+WARNING:root:This file has no permissions: /tmp/tmpppgejzxm/split_auxiliary_search.apk
+WARNING:root:This file has no permissions: /tmp/tmpd9q7bd82/split_config.arm64_v8a.apk
+WARNING:root:This file has no permissions: /tmp/tmppod_63_1/split_config.pl.apk
+WARNING:root:This file has no permissions: /tmp/tmp0ujhxtw1/split_config.en.apk
+WARNING:root:This file has no permissions: /tmp/tmpof3go4vb/split_config.hdpi.apk
+WARNING:root:This file has no permissions: /tmp/tmp2n3hww__/split_config.hdpi.apk
+WARNING:root:This file has no permissions: /tmp/tmp6r1luhnw/split_config.arm64_v8a.apk
+WARNING:root:This file has no permissions: /tmp/tmpqk9o_ah7/split_config.en.apk
+WARNING:root:This file has no permissions: /tmp/tmpqcpx0ci3/split_config.pl.apk
+WARNING:root:This file has no permissions: /tmp/tmpi3bssb8t/split_config.hdpi.apk
+WARNING:root:This file has no permissions: /tmp/tmpsw8klbnk/split_config.arm64_v8a.apk
+WARNING:root:This file has no permissions: /tmp/tmpeteywma5/split_config.pl.apk
+WARNING:root:This file has no permissions: /tmp/tmpjouq22t3/split_config.en.apk
+WARNING:root:This file has no permissions: /tmp/tmpq6uxivln/split_config.en.apk
+WARNING:root:This file has no permissions: /tmp/tmpwnxudtb2/split_config.pl.apk
+WARNING:root:This file has no permissions: /tmp/tmpmq_iuh9k/split_config.hdpi.apk
+WARNING:root:This file has no permissions: /tmp/tmpxcbipe1j/split_config.arm64_v8a.apk
+WARNING:root:This file has no permissions: /tmp/tmprsai0nuk/split_config.arm64_v8a.apk
+WARNING:root:This file has no permissions: /tmp/tmpmr71460h/split_config.arm64_v8a.apk
+WARNING:root:This file has no permissions: /tmp/tmp48qzs0ga/split_config.hdpi.apk
+WARNING:root:This file has no permissions: /tmp/tmpmcuqq1bu/split_config.hdpi.apk
+WARNING:root:This file has no permissions: /tmp/tmp0t9kds3n/split_config.arm64_v8a.apk
+WARNING:root:This file has no permissions: /tmp/tmpm6l6e1rz/split_config.arm64_v8a.apk
+WARNING:root:This file has no permissions: /tmp/tmp422tbq8f/split_config.hdpi.apk
+WARNING:root:This file has no permissions: /tmp/tmpc24x5gjz/split_config.pl.apk
+WARNING:root:This file has no permissions: /tmp/tmpibgnh0ro/split_config.en.apk
+WARNING:root:This file has no permissions: /tmp/tmp5qu2si1l/split_config.hdpi.apk
+WARNING:root:This file has no permissions: /tmp/tmpbd4ryk2b/split_config.pl.apk
+WARNING:root:This file has no permissions: /tmp/tmpfy9owz6w/split_config.arm64_v8a.apk
+WARNING:root:This file has no permissions: /tmp/tmpg1rj1fuo/split_config.hdpi.apk
+WARNING:root:This file has no permissions: /tmp/tmpzcufe529/split_config.en.apk
+WARNING:root:This file has no permissions: /tmp/tmpffykss9t/split_config.pl.apk
+WARNING:root:This file has no permissions: /tmp/tmpvpzy3snn/split_config.hdpi.apk
+WARNING:root:This file has no permissions: /tmp/tmpn7wxegbe/split_config.arm64_v8a.apk
+WARNING:root:This file has no permissions: /tmp/tmpf2n377wr/split_config.en.apk
+WARNING:root:This file has no permissions: /tmp/tmpm9ovuc2d/split_config.pl.apk
+WARNING:root:This file has no permissions: /tmp/tmpgsa6_jb4/split_config.hdpi.apk
+WARNING:root:This file has no permissions: /tmp/tmpxvmbvp_i/split_config.en.apk
+WARNING:root:This file has no permissions: /tmp/tmp_vse14p4/split_config.pl.apk
+WARNING:root:This file has no permissions: /tmp/tmpr9bgwxch/split_config.en.apk
+WARNING:root:This file has no permissions: /tmp/tmpg7ujhk93/split_config.hdpi.apk
+WARNING:root:This file has no permissions: /tmp/tmp6x7wxnyo/split_config.arm64_v8a.apk
+WARNING:root:This file has no permissions: /tmp/tmphn54qino/split_config.hdpi.apk
+WARNING:root:This file has no permissions: /tmp/tmpq2jz8m77/split_config.pl.apk
+WARNING:root:This file has no permissions: /tmp/tmpugnmsvn7/split_config.hdpi.apk
+WARNING:root:This file has no permissions: /tmp/tmpad0p6eff/split_config.arm64_v8a.apk
+WARNING:root:This file has no permissions: /tmp/tmp1je5i4rm/split_config.en.apk
+WARNING:root:This file has no permissions: /tmp/tmpigi8ubdl/split_config.hdpi.apk
+WARNING:root:This file has no permissions: /tmp/tmph9soojux/split_config.arm64_v8a.apk
+WARNING:root:This file has no permissions: /tmp/tmpqfirq2xv/split_config.en.apk
+WARNING:root:This file has no permissions: /tmp/tmprywavpqh/split_config.pl.apk
+WARNING:root:This file has no permissions: /tmp/tmpox19hzc6/split_config.en.apk
+WARNING:root:This file has no permissions: /tmp/tmpbo7nqomi/split_config.hdpi.apk
+WARNING:root:This file has no permissions: /tmp/tmp00ur4o4z/split_config.pl.apk
+WARNING:root:This file has no permissions: /tmp/tmpmr2lvnfv/split_config.arm64_v8a.apk
+WARNING:root:This file has no permissions: /tmp/tmpbuwg4ubi/split_config.pl.apk
+WARNING:root:This file has no permissions: /tmp/tmpnxrsbwh0/split_config.en.apk
+WARNING:root:This file has no permissions: /tmp/tmpobl2ubg8/split_config.hdpi.apk
+WARNING:root:This file has no permissions: /tmp/tmpia0ikbzx/split_config.arm64_v8a.apk
+WARNING:root:This file has no permissions: /tmp/tmpa84kutmb/split_config.pl.apk
+WARNING:root:This file has no permissions: /tmp/tmp4nhgxmx7/split_config.en.apk
+WARNING:root:This file has no permissions: /tmp/tmpm5_u58do/split_config.hdpi.apk
+WARNING:root:This file has no permissions: /tmp/tmpgwtvhjyz/split_config.arm64_v8a.apk
+WARNING:root:This file has no permissions: /tmp/tmpsl0b52kw/split_config.arm64_v8a.apk
+WARNING:root:This file has no permissions: /tmp/tmpo_gifu8j/split_config.en.apk
+WARNING:root:This file has no permissions: /tmp/tmpy3q1l4zg/split_config.hdpi.apk
+WARNING:root:This file has no permissions: /tmp/tmpz_003ux2/split_config.pl.apk
+WARNING:root:This file has no permissions: /tmp/tmp1d5_vqzh/split_config.arm64_v8a.apk
+WARNING:root:This file has no permissions: /tmp/tmpishipyuv/split_config.hdpi.apk
+WARNING:root:This file has no permissions: /tmp/tmpw34q80l6/split_config.pl.apk
+WARNING:root:This file has no permissions: /tmp/tmpi9lebok1/split_config.en.apk
+WARNING:root:This file has no permissions: /tmp/tmpfig8ufk3/split_config.pl.apk
+WARNING:root:This file has no permissions: /tmp/tmpy0ue22i6/split_config.hdpi.apk
+WARNING:root:This file has no permissions: /tmp/tmpbb92ge_y/split_config.en.apk
+WARNING:root:This file has no permissions: /tmp/tmp8oh3ey47/split_config.arm64_v8a.apk
+WARNING:root:This file has no permissions: /tmp/tmp0uxlcb8y/split_config.en.apk
+WARNING:root:This file has no permissions: /tmp/tmpak3j_1jd/split_config.hdpi.apk
+WARNING:root:This file has no permissions: /tmp/tmp3qfgtuhw/split_config.pl.apk
+WARNING:root:This file has no permissions: /tmp/tmpnr3i2zb3/split_config.arm64_v8a.apk
+WARNING:root:This file has no permissions: /tmp/tmplb7zicz5/split_config.en.apk
+WARNING:root:This file has no permissions: /tmp/tmpetv4xckl/split_config.arm64_v8a.apk
+WARNING:root:This file has no permissions: /tmp/tmpsra61ksm/split_phonesky_data_loader.config.arm64_v8a.apk
+WARNING:root:This file has no permissions: /tmp/tmp1gmmqp3d/split_config.pl.apk
+WARNING:root:This file has no permissions: /tmp/tmpx4ynec9j/split_phonesky_data_loader.apk
+WARNING:root:This file does not exist: (/tmp/tmp0apubvxj/p_com.android.vending8337056337583407088.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmp0apubvxj/p_com.android.vending8337056337583407088.apk)
+WARNING:root:This file does not exist: (/tmp/tmp310kfbld/p_config.en120269047309022999.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmp310kfbld/p_config.en120269047309022999.apk)
+WARNING:root:This file does not exist: (/tmp/tmpofbjbz85/p_config.pl7153012377001232492.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpofbjbz85/p_config.pl7153012377001232492.apk)
+WARNING:root:This file does not exist: (/tmp/tmpp33f8rib/p_config.arm64_v8a498984038476018196.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpp33f8rib/p_config.arm64_v8a498984038476018196.apk)
+WARNING:root:This file does not exist: (/tmp/tmpwlc8tmc7/p_phonesky_data_loader6206540251592254973.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpwlc8tmc7/p_phonesky_data_loader6206540251592254973.apk)
+WARNING:root:This file does not exist: (/tmp/tmph9n71uzw/p_phonesky_data_loader.config.arm64_v8a7183011402913489585.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmph9n71uzw/p_phonesky_data_loader.config.arm64_v8a7183011402913489585.apk)
+WARNING:root:This file does not exist: (/tmp/tmpzvqjnvca/the.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpzvqjnvca/the.apk)
+WARNING:root:This file does not exist: (/tmp/tmpv5egtv7u/the.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpv5egtv7u/the.apk)
+WARNING:root:This file does not exist: (/tmp/tmpj60jdi99/the.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpj60jdi99/the.apk)
+WARNING:root:This file does not exist: (/tmp/tmp8kjnn_dt/the.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmp8kjnn_dt/the.apk)
+WARNING:root:This file has no permissions: /tmp/tmpdem5sthj/dl-Antifingerprinting.optional_241017100000.apk
+WARNING:root:This file has no permissions: /tmp/tmpi6vlbohn/dl-PlayCloudSearch.optional_241017100000.apk
+WARNING:root:This file has no permissions: /tmp/tmpbmn_ja8b/dl-MlkitOcrCommon.optional_241017100400.apk
+WARNING:root:This file has no permissions: /tmp/tmp5twm2zmu/dl-VisionOcr.optional_241017100000.apk
+WARNING:root:This file has no permissions: /tmp/tmps3dz8otc/dl-TfliteDynamiteDynamite.integ_234200803100400.apk
+WARNING:root:This file has no permissions: /tmp/tmp4o2h5_hn/dl-MapsCoreDynamite.integ_234910200100400.apk
+WARNING:root:This file has no permissions: /tmp/tmpgl38la9t/dl-AdsFdrDynamite.integ_240304704100000.apk
+WARNING:root:This file has no permissions: /tmp/tmpirxu_z1d/dl-VisionBarcode.optional_241017100400.apk
+WARNING:root:This file has no permissions: /tmp/tmpovubp1w3/dl-VisionFace.optional_241017100400.apk
+WARNING:root:This file has no permissions: /tmp/tmp9_d4ba_4/AdsDynamite.apk
+WARNING:root:This file has no permissions: /tmp/tmp4zo9wa3m/CronetDynamite.apk
+WARNING:root:This file has no permissions: /tmp/tmpf78u0u88/DynamiteLoader.apk
+WARNING:root:This file does not exist: (/tmp/tmpo303jb07/VisionBarcode.optional_241017100400_2.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpo303jb07/VisionBarcode.optional_241017100400_2.apk)
+WARNING:root:This file does not exist: (/tmp/tmp0jyn8kgo/VisionFace.optional_241017100400_2.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmp0jyn8kgo/VisionFace.optional_241017100400_2.apk)
+WARNING:root:This file does not exist: (/tmp/tmpo__ga6ea/Magisk-v27.0.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpo__ga6ea/Magisk-v27.0.apk)
+WARNING:root:This file does not exist: (/tmp/tmpt0ycdegr/stub.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpt0ycdegr/stub.apk)
+WARNING:root:This file does not exist: (/tmp/tmpu0mpwtzj/GoogleCalendarSyncAdapter.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpu0mpwtzj/GoogleCalendarSyncAdapter.apk)
+WARNING:root:This file does not exist: (/tmp/tmpl3zbjo36/GoogleContacts.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpl3zbjo36/GoogleContacts.apk)
+WARNING:root:This file does not exist: (/tmp/tmpk4wpq4is/GoogleContactsSyncAdapter.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpk4wpq4is/GoogleContactsSyncAdapter.apk)
+WARNING:root:This file does not exist: (/tmp/tmp3z0ctn_h/PrebuiltBugle.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmp3z0ctn_h/PrebuiltBugle.apk)
+WARNING:root:This file does not exist: (/tmp/tmp4h_hunwn/split_config.arm64_v8a.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmp4h_hunwn/split_config.arm64_v8a.apk)
+WARNING:root:This file does not exist: (/tmp/tmpyzc_dsmd/split_config.en.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpyzc_dsmd/split_config.en.apk)
+WARNING:root:This file does not exist: (/tmp/tmph2uydxva/split_config.xxhdpi.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmph2uydxva/split_config.xxhdpi.apk)
+WARNING:root:This file does not exist: (/tmp/tmpr9muoe9v/PrebuiltDeskClockGoogle.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpr9muoe9v/PrebuiltDeskClockGoogle.apk)
+WARNING:root:This file does not exist: (/tmp/tmpreedw7gr/GmsConfigOverlayCommon.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpreedw7gr/GmsConfigOverlayCommon.apk)
+WARNING:root:This file does not exist: (/tmp/tmpufy0jkrf/GmsConfigOverlayComms.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpufy0jkrf/GmsConfigOverlayComms.apk)
+WARNING:root:This file does not exist: (/tmp/tmpghsoxoya/GmsConfigOverlayGSA.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpghsoxoya/GmsConfigOverlayGSA.apk)
+WARNING:root:This file does not exist: (/tmp/tmpgdospddi/GmsContactsProviderOverlay.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpgdospddi/GmsContactsProviderOverlay.apk)
+WARNING:root:This file does not exist: (/tmp/tmpbgjo8hb_/CarrierServices.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpbgjo8hb_/CarrierServices.apk)
+WARNING:root:This file does not exist: (/tmp/tmpmz3grl4j/GoogleDialer.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpmz3grl4j/GoogleDialer.apk)
+WARNING:root:This file does not exist: (/tmp/tmpjwunsz4r/GoogleServicesFramework.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpjwunsz4r/GoogleServicesFramework.apk)
+WARNING:root:This file does not exist: (/tmp/tmpu7g1ly1a/Phonesky.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpu7g1ly1a/Phonesky.apk)
+WARNING:root:This file does not exist: (/tmp/tmp9lemc_px/split_config.arm64_v8a.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmp9lemc_px/split_config.arm64_v8a.apk)
+WARNING:root:This file does not exist: (/tmp/tmpfoi6vprn/split_config.en.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpfoi6vprn/split_config.en.apk)
+WARNING:root:This file does not exist: (/tmp/tmpkg4xms83/split_phonesky_data_loader.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpkg4xms83/split_phonesky_data_loader.apk)
+WARNING:root:This file does not exist: (/tmp/tmpvczzcm27/split_phonesky_data_loader.config.arm64_v8a.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpvczzcm27/split_phonesky_data_loader.config.arm64_v8a.apk)
+WARNING:root:This file does not exist: (/tmp/tmpm7q54zvr/PrebuiltGmsCore.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpm7q54zvr/PrebuiltGmsCore.apk)
+WARNING:root:This file does not exist: (/tmp/tmp8pctr969/WellbeingPreBuilt.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmp8pctr969/WellbeingPreBuilt.apk)
+WARNING:root:This file does not exist: (/tmp/tmppy3ts38l/dl-Antifingerprinting.optional_241017100000.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmppy3ts38l/dl-Antifingerprinting.optional_241017100000.apk)
+WARNING:root:This file does not exist: (/tmp/tmpac3pwmby/dl-PlayCloudSearch.optional_241017100000.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpac3pwmby/dl-PlayCloudSearch.optional_241017100000.apk)
+WARNING:root:This file does not exist: (/tmp/tmpygau4yk9/dl-MlkitOcrCommon.optional_241017100400.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpygau4yk9/dl-MlkitOcrCommon.optional_241017100400.apk)
+WARNING:root:This file does not exist: (/tmp/tmplvmnvwos/dl-VisionOcr.optional_241017100000.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmplvmnvwos/dl-VisionOcr.optional_241017100000.apk)
+WARNING:root:This file does not exist: (/tmp/tmpx31lsb0p/dl-TfliteDynamiteDynamite.integ_234200803100400.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpx31lsb0p/dl-TfliteDynamiteDynamite.integ_234200803100400.apk)
+WARNING:root:This file does not exist: (/tmp/tmpt9a3tdin/dl-MapsCoreDynamite.integ_234910200100400.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpt9a3tdin/dl-MapsCoreDynamite.integ_234910200100400.apk)
+WARNING:root:This file does not exist: (/tmp/tmph3tahclg/dl-AdsFdrDynamite.integ_240304704100000.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmph3tahclg/dl-AdsFdrDynamite.integ_240304704100000.apk)
+WARNING:root:This file does not exist: (/tmp/tmp_44itj95/dl-VisionBarcode.optional_241017100400.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmp_44itj95/dl-VisionBarcode.optional_241017100400.apk)
+WARNING:root:This file does not exist: (/tmp/tmp25q_y42u/dl-VisionFace.optional_241017100400.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmp25q_y42u/dl-VisionFace.optional_241017100400.apk)
+WARNING:root:This file does not exist: (/tmp/tmpgkfslhzn/AdsDynamite.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpgkfslhzn/AdsDynamite.apk)
+WARNING:root:This file does not exist: (/tmp/tmppsjuxm2s/CronetDynamite.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmppsjuxm2s/CronetDynamite.apk)
+WARNING:root:This file does not exist: (/tmp/tmphdasyh4d/DynamiteLoader.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmphdasyh4d/DynamiteLoader.apk)
+WARNING:root:This file does not exist: (/tmp/tmpf_m3z5bp/VisionBarcode.optional_241017100400_2.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpf_m3z5bp/VisionBarcode.optional_241017100400_2.apk)
+WARNING:root:This file does not exist: (/tmp/tmpcc6o6p1e/VisionFace.optional_241017100400_2.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpcc6o6p1e/VisionFace.optional_241017100400_2.apk)
+WARNING:root:This file does not exist: (/tmp/tmpn2il6plu/p_com.android.vending8337056337583407088.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpn2il6plu/p_com.android.vending8337056337583407088.apk)
+WARNING:root:This file does not exist: (/tmp/tmp_s2hjpiy/p_config.en120269047309022999.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmp_s2hjpiy/p_config.en120269047309022999.apk)
+WARNING:root:This file does not exist: (/tmp/tmpn16r7ela/p_config.pl7153012377001232492.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpn16r7ela/p_config.pl7153012377001232492.apk)
+WARNING:root:This file does not exist: (/tmp/tmpwwno99y_/p_config.arm64_v8a498984038476018196.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpwwno99y_/p_config.arm64_v8a498984038476018196.apk)
+WARNING:root:This file does not exist: (/tmp/tmpixp4zdvk/p_phonesky_data_loader6206540251592254973.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpixp4zdvk/p_phonesky_data_loader6206540251592254973.apk)
+WARNING:root:This file does not exist: (/tmp/tmp0huwehb6/p_phonesky_data_loader.config.arm64_v8a7183011402913489585.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmp0huwehb6/p_phonesky_data_loader.config.arm64_v8a7183011402913489585.apk)
+WARNING:root:This file does not exist: (/tmp/tmpga8r41jz/the.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmpga8r41jz/the.apk)
+WARNING:root:This file does not exist: (/tmp/tmp_h5jugu_/the.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmp_h5jugu_/the.apk)
+WARNING:root:This file does not exist: (/tmp/tmp2ckuka9q/the.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmp2ckuka9q/the.apk)
+WARNING:root:This file does not exist: (/tmp/tmp9ptktkbh/the.apk)
+WARNING:root:This file is not a type that is currently handled (CRX, APK, CRX Manifest, or APK Manifest): (/tmp/tmp9ptktkbh/the.apk)
