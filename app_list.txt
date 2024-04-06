@@ -144,6 +144,9 @@ package:com.instagram.barcelona
 package:com.linkedin.android
 package:com.myetherwallet.mewwallet
 package:com.nll.acr
+package:com.nll.cb
+package:com.onrender.bloxland.blox_ppr
+package:com.onrender.bloxland.blox_scada_android
 package:com.rockchip.devicetest
 package:com.rockchip.overlay.pinnerservice
 package:com.skemailmobileapp
